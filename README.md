@@ -7,3 +7,5 @@ Com文件夹
 Com.sln
 VS项目文件
 
+Win7文件夹
+已经编译好的在Win7系统上使用的exe文件+dll依赖库
